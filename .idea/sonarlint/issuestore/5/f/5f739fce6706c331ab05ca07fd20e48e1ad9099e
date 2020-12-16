@@ -1,0 +1,9 @@
+
+x
+java:S1450"VRemove the "adapter" field and declare it as a local variable in the relevant methods.(²ÇØ¦þÿÿÿÿ8à½¸Ïº.
+|
+java:S11928"_Define a constant instead of duplicating this literal "Chua tai lieu phong kinh doanh" 4 times.(Û¤„à8œ’¸½æ.
+w
+java:S1450"ZRemove the "listTheLoai" field and declare it as a local variable in the relevant methods.(©¡ÈË8õ×®½æ.
+j	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÑÒ¦8¤¤®½æ.
+j	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾•Á˜8Ö¶õ½æ.

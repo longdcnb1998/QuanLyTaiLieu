@@ -1,0 +1,23 @@
+
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+k
+;app/src/main/java/com/example/ql_nhanvien/MainActivity.java,5\f\5f739fce6706c331ab05ca07fd20e48e1ad9099e
+m
+=app/src/main/java/com/example/ql_nhanvien/DatabaseHelper.java,d\6\d622f85586ae2a152376ef7d9c3695c78063f767
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+f
+6app/src/main/java/com/example/ql_nhanvien/TheLoai.java,d\8\d8c97126203f1642827dd9849ca92792a67ea7d3
+m
+=app/src/main/java/com/example/ql_nhanvien/TheLoaiAdapter.java,c\d\cdfddb93af9ad7b856f66b740c12d8a6ceeac196
+m
+=app/src/main/java/com/example/ql_nhanvien/TaiLieuAdapter.java,5\f\5fb3e0467ffe0131ed606076abdfb1accf1b2c89
+f
+6app/src/main/java/com/example/ql_nhanvien/TaiLieu.java,3\b\3b84af90bad69767be6777349245966fc51c6d9e
+j
+:app/src/main/java/com/example/ql_nhanvien/ThemTaiLieu.java,d\3\d3a973d6e4e90e4d70e4b7a768ff4d52f7f8e31c
+q
+Aapp/src/main/java/com/example/ql_nhanvien/SuaTaiLieuActivity.java,c\f\cfb02ac7afde3e8b676b5bcd9feca2860d947056
+v
+Fapp/src/main/java/com/example/ql_nhanvien/DanhSachTaiLieuActivity.java,4\8\48d0d5a7d51b731c5a9cadcc839bde357f545242

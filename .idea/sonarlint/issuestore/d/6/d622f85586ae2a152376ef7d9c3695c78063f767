@@ -1,0 +1,67 @@
+
+x
+java:S1104"VMake table_name a static final constant or non-public and provide accessors if needed.(­ÍÀšúÿÿÿÿ8è˜´Îº.
+G
+java:S1444"*Make this "public static size" field final(ÄÑş§8¦„õ¼æ.
+s
+java:S3008"VRename this field "ma_the_loai" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğçò 8€ıí¼æ.
+y
+java:S1104"WMake id_the_loai a static final constant or non-public and provide accessors if needed.(ñâè®ıÿÿÿÿ8ËÑğ¼æ.
+q
+java:S1104"OMake ten a static final constant or non-public and provide accessors if needed.(¤ÆÏ´úÿÿÿÿ8Î¿ñ¼æ.
+G
+java:S1444"*Make this "public static mota" field final(Ââ‡ø8›íñ¼æ.
+v
+java:S1104"YMake database_name a static final constant or non-public and provide accessors if needed.(à–ÎÉ8ó­Îº.
+o	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÆÓòùÿÿÿÿ8Üª“½æ.
+P
+java:S1444"3Make this "public static database_name" field final(à–ÎÉ8ó­Îº.
+o	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¼¼Åúÿÿÿÿ8÷á¡½æ.
+u
+java:S3008"XRename this field "database_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à–ÎÉ8ó­Îº.
+{
+java:S1104"YMake loai_tai_lieu a static final constant or non-public and provide accessors if needed.(Ã£‚ûÿÿÿÿ8ó¼æ.
+t
+java:S1104"WMake ma_the_loai a static final constant or non-public and provide accessors if needed.(Ğçò 8€ıí¼æ.
+e
+java:S1192 "HDefine a constant instead of duplicating this literal " TEXT, " 4 times.(ÕŸŠÎ8¸Á­Ğº.
+j	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô…ßİ8†»½æ.
+U
+java:S1444"3Make this "public static loai_tai_lieu" field final(Ã£‚ûÿÿÿÿ8ó¼æ.
+x
+java:S3008"VRename this field "id_the_loai" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñâè®ıÿÿÿÿ8ËÑğ¼æ.
+L
+java:S1444"*Make this "public static link" field final(æ£õÿÿÿÿÿ8Òãó¼æ.
+o	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸°Œêüÿÿÿÿ8Ùì‰½æ.
+m
+java:S1104"PMake mota a static final constant or non-public and provide accessors if needed.(Ââ‡ø8›íñ¼æ.
+R
+java:S1444"0Make this "public static table_name" field final(­ÍÀšúÿÿÿÿ8è˜´Îº.
+N
+java:S1444"1Make this "public static ma_the_loai" field final(Ğçò 8€ıí¼æ.
+z
+java:S3008"XRename this field "loai_tai_lieu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã£‚ûÿÿÿÿ8ó¼æ.
+o	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÄ¿Îùÿÿÿÿ8Ÿü½æ.
+z	java:S116"YRename this field "table_tai_lieu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤úØĞøÿÿÿÿ8¨íì¼æ.
+w
+java:S3008"URename this field "table_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÍÀšúÿÿÿÿ8è˜´Îº.
+S
+java:S1444"6Make this "public static database_version" field final(—†ù¥8×¦²Îº.
+m
+java:S1104"PMake size a static final constant or non-public and provide accessors if needed.(ÄÑş§8¦„õ¼æ.
+y
+java:S1104"\Make database_version a static final constant or non-public and provide accessors if needed.(—†ù¥8×¦²Îº.
+y
+java:S1104"WMake ma_tai_lieu a static final constant or non-public and provide accessors if needed.(šºŸÍûÿÿÿÿ8‘±ï¼æ.
+x
+java:S3008"[Rename this field "database_version" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—†ù¥8×¦²Îº.
+r
+java:S1104"PMake link a static final constant or non-public and provide accessors if needed.(æ£õÿÿÿÿÿ8Òãó¼æ.
+S
+java:S1444"1Make this "public static ma_tai_lieu" field final(šºŸÍûÿÿÿÿ8‘±ï¼æ.
+S
+java:S1444"1Make this "public static id_the_loai" field final(ñâè®ıÿÿÿÿ8ËÑğ¼æ.
+x
+java:S3008"VRename this field "ma_tai_lieu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šºŸÍûÿÿÿÿ8‘±ï¼æ.
+K
+java:S1444")Make this "public static ten" field final(¤ÆÏ´úÿÿÿÿ8Î¿ñ¼æ.
